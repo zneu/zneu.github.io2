@@ -20,3 +20,8 @@ div.center {
   margin-right: auto;
   clear: both;
 }
+
+image {
+  padding-right: 10%;
+  padding-left: 10%;
+}
