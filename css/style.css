@@ -37,6 +37,14 @@ main header {
   padding: 1px 10px 50px 50px;
 }
 
+a {
+  color: #810f7c;
+}
+
+a:hover {
+  color: #88419d;
+}
+
 .header-text {
   max-width: 650px;
   float: left;
@@ -70,6 +78,10 @@ hr:after {
   background: #d9d9d9;
 }
 
+main {
+  text-align: center;
+}
+
 main section {
   background-color: #d9d9d9;
   padding: 50px;
@@ -81,6 +93,15 @@ footer {
   bottom:0px;
   width:100%;
   clear: both;
+}
+
+footer a {
+  color: white;
+}
+
+footer a:hover {
+  color: #bdbdbd;
+  text-decoration: none;
 }
 
 .footer-above {
