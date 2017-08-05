@@ -3,7 +3,7 @@ body{
   margin: 0;
   color:#252525;
   background:#525252;
-  font-size: 20px;
+  font-size: 16px;
   font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
@@ -34,7 +34,7 @@ main {
 main header {
   text-align: left;
   background-color: #969696;
-  padding: 1px 10px 50px 50px;
+  padding: 1px 10px 0px 50px;
 }
 
 a {
@@ -43,6 +43,7 @@ a {
 
 a:hover {
   color: #88419d;
+  text-decoration: none;
 }
 
 .header-text {
@@ -114,6 +115,12 @@ footer a:hover {
 .footer-below {
   background-color: #000;
   color: #bdbdbd;
+}
+
+#icons{
+  margin: auto;
+  padding: 10 10 10 10;
+  text-align: center;
 }
 
 /*
