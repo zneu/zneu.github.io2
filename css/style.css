@@ -64,6 +64,7 @@ hr {
 	border-top: 1px solid #000000;
 	text-align: center;
 }
+
 hr:after {
 	content: '</>';
 	display: inline-block;
