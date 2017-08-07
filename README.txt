@@ -1,1 +1,2 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/zneu/pen/KaodoP.
+Code for Zachary Neumann's protfolio and website.
+[See it live!](http://www.zacharyneumann.com)
